@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpaceMarine", "SpaceMarine\SpaceMarine\SpaceMarine.csproj", "{1C24BAC6-CC95-4B9C-9926-E41EC2A2F317}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "SpaceMarineContent", "SpaceMarine\SpaceMarineContent\SpaceMarineContent.contentproj", "{C92BA5EC-2D07-4A1E-9AAC-F4243F667458}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C24BAC6-CC95-4B9C-9926-E41EC2A2F317}.Debug|x86.ActiveCfg = Debug|x86
+		{1C24BAC6-CC95-4B9C-9926-E41EC2A2F317}.Debug|x86.Build.0 = Debug|x86
+		{1C24BAC6-CC95-4B9C-9926-E41EC2A2F317}.Release|x86.ActiveCfg = Release|x86
+		{1C24BAC6-CC95-4B9C-9926-E41EC2A2F317}.Release|x86.Build.0 = Release|x86
+		{C92BA5EC-2D07-4A1E-9AAC-F4243F667458}.Debug|x86.ActiveCfg = Debug|x86
+		{C92BA5EC-2D07-4A1E-9AAC-F4243F667458}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
